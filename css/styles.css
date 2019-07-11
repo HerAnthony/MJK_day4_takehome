@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin|Open Sans&display=swap');
+
+body {
+    font-family: 'Cabin',
+    cursive;    
+}
+.container-fluid {
+    background-color: silver;
+}
+
+footer {
+    background-color: black;
+    color:white
+}
+
+
+
+header, 
+promo,{
+    height: 400px;
+}
+
+footer {
+    height: 40px;
+}
+
+content {
+    height: 400px;
+}
+
+header,
+section,
+footer,
+aside,
+.col-md-3 {
+    border: 2px solid
+    #000;
+}
+
+.black-border {
+    border: 2px solid black;    
+}
