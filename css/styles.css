@@ -13,15 +13,16 @@ header {
 }
 
 .col-xs-12 {
-    background-color: red;
-    border: 10px solid white;
+    background-color: black;
+    border: 10px solid silver;
+    color: white;
 }
 .col-xs-2, .col-xs-3, .col-xs-6 {
     background-color: black;
     color:white;
-    border: 10px solid black;
+    border: 10px solid silver;
 }
 
 .black-border, h1 {
-    border: 2px solid black;    
+    border: 3px solid black;    
 }
