@@ -2,41 +2,26 @@
 
 body {
     font-family: 'Cabin',
-    cursive;    
-}
-.container-fluid {
+    cursive;
     background-color: silver;
 }
 
-footer {
+header {
+    font-family: 'Cabin';
+    height: 75px;
+    text-align: center;
+}
+
+.col-xs-12 {
+    background-color: red;
+    border: 10px solid white;
+}
+.col-xs-2, .col-xs-3, .col-xs-6 {
     background-color: black;
-    color:white
+    color:white;
+    border: 10px solid black;
 }
 
-
-
-header, 
-promo,{
-    height: 400px;
-}
-
-footer {
-    height: 40px;
-}
-
-content {
-    height: 400px;
-}
-
-header,
-section,
-footer,
-aside,
-.col-md-3 {
-    border: 2px solid
-    #000;
-}
-
-.black-border {
+.black-border, h1 {
     border: 2px solid black;    
 }
